@@ -1,2 +1,1 @@
-# Prank
-Prank web (RECODE TO USE THIS)
+# Just to annoying my friends by making a web
